@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./Menu.scss";
+import "./menu.scss";
 import { menu } from "../../data";
 
 const Menu = () => {
@@ -20,4 +20,4 @@ const Menu = () => {
   );
 };
 
-export default Menu;
+export default Menu;  
